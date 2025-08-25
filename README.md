@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! 👋 I'm Yashika Rawawt
+🎓 About Me
+I'm a Master of Computer Applications (MCA) student specializing in Big Data Analytics, passionate about transforming raw data into meaningful insights. I enjoy working with large datasets and building scalable solutions that drive data-driven decision making.
 
-<!--
-**yashikaRawat18/yashikaRawat18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack & Skills
+Languages: Python • R (learning) • Java • JavaScript
+Frameworks: Next.js • Bootstrap
+Database: MongoDB
+Analytics: Statistical Analysis • Data Visualization • Machine Learning • Big Data Processing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+Advanced R programming for statistical analysis
+Big Data processing frameworks
+Advanced machine learning techniques
